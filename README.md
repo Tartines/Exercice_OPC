@@ -1,3 +1,4 @@
 # Exercice_OPC
 Exercice OpenClassRoom
-Voici la première modification de cet exercice sur le fichier README.md
+Ce projet consiste Ã  mettre en place un fichier HTML et JS via Git pour GitHub.
+Projet : Seul.
